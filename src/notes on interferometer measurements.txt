@@ -1,0 +1,45 @@
+beginning: output 2 of interferometer C is connnected to the 'far' snspd output. And the light goes in the 'input' port. The 1530R port of the DWDM.
+
+
+beginning: "input" of interferometer B is connected to 'closer' snspd output. And the light goes in the "output 2' port. The 1550R port of the CWDM
+
+
+beginning: "input: of interferometer A is connected to left clamped down port. Right clamped port is output 2. 
+
+
+## transmission ##
+
+laser raw: 206.8 uW
+intf C
+in_input_out_output1: 80.2 +/- 1
+in_input_out_output2: 80.5 +/- 1
+
+in_output1_out_input: 79.0 +/- 1
+in_output2_out_input: 79.5 +/- 0.5
+
+
+
+intf B
+in_input_out_output1: 71.3, 70.5
+in_input_out_output2: 69.1, 66.5
+
+in_output1_out_input: 75.5, 76.4
+in_output2_out_input: 77.1, 74.4
+
+
+
+intf A
+in_input_out_output1: 79.3, 75.6     75.3, 79.1
+in_input_out_output2: 73.1, 70.2 ,   69.5, 67.3
+
+in_output1_out_input: 79.1, 75.3
+in_output2_out_input: 79.9, 77.7
+
+
+
+
+
+
+
+
+
