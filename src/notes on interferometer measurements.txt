@@ -1,10 +1,10 @@
-beginning: output 2 of interferometer C is connnected to the 'far' snspd output. And the light goes in the 'input' port. The 1530R port of the DWDM.
+beginning: output 2 of interferometer C is connnected to the 'far' snspd output. And the light goes in the 'input' port. The 1530R port of the DWDM. [Bob]
 
 
-beginning: "input" of interferometer B is connected to 'closer' snspd output. And the light goes in the "output 2' port. The 1550R port of the CWDM
+beginning: "input" of interferometer B is connected to 'closer' snspd output. And the light goes in the "output 2' port. The 1550R port of the CWDM [Alice]
 
 
-beginning: "input: of interferometer A is connected to left clamped down port. Right clamped port is output 2. 
+beginning: "input: of interferometer A is connected to left clamped down port. Right clamped port is output 2. [Source]
 
 
 ## transmission ##
